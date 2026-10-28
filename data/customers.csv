@@ -1,0 +1,51 @@
+customer_id,name,email,city
+1,Ahmed Ben Ali,ahmed.benali1@gmail.com,Tunis
+2,Sarah Mansouri,sarah.mansouri2@gmail.com,Sfax
+3,Mohamed Saidi,mohamed.saidi3@gmail.com,Sousse
+4,Ines Dridi,ines.dridi4@gmail.com,Monastir
+5,Karim Gharbi,karim.gharbi5@gmail.com,Nabeul
+6,Amira Haddad,amira.haddad6@gmail.com,Bizerte
+7,Youssef Khelifi,youssef.khelifi7@gmail.com,Gabès
+8,Leila Trabelsi,leila.trabelsi8@gmail.com,Kairouan
+8,Nour Jebali,nour.jebali9@gmail.com,Tunis
+10,Sami Bouzid,sami.bouzid10@gmail.com,Sfax
+11,Mariam Ben Ali,mariam.benali11@gmail.com,Sousse
+12,Omar Mansouri,omar.mansouri12@gmail.com,Monastir
+13,,rania.saidi13@gmail.com,Nabeul
+14,Anis Dridi,anis.dridi14@gmail.com,Bizerte
+15,Salma Gharbi,salma.gharbi15@gmail.com,Gabès
+16,Houssem Haddad,houssem.haddad16@gmail.com,Kairouan
+17,Yasmine Khelifi,yasmine.khelifi17@gmail.com,Tunis
+18,Fares Trabelsi,email-invalide,Sfax
+19,Asma Jebali,asma.jebali19@gmail.com,Sousse
+20,Mehdi Bouzid,mehdi.bouzid20@gmail.com,Monastir
+21,Ahmed Ben Ali,ahmed.benali21@gmail.com,Nabeul
+22,Sarah Mansouri,sarah.mansouri22@gmail.com,Bizerte
+23,Mohamed Saidi,mohamed.saidi23@gmail.com,
+24,Ines Dridi,ines.dridi24@gmail.com,Kairouan
+25,Karim Gharbi,karim.gharbi25@gmail.com,Tunis
+26,Amira Haddad,amira.haddad26@gmail.com,Sfax
+27,Youssef Khelifi,youssef.khelifi27@gmail.com,Sousse
+28,Leila Trabelsi,leila.trabelsi28@gmail.com,Monastir
+29,Nour Jebali,nour.jebali29@gmail.com,Nabeul
+30,Sami Bouzid,,Bizerte
+31,Mariam Ben Ali,mariam.benali31@gmail.com,Gabès
+32,Omar Mansouri,omar.mansouri32@gmail.com,Kairouan
+33,Rania Saidi,rania.saidi33@gmail.com,Tunis
+34,Anis Dridi,anis.dridi34@gmail.com,Sfax
+35,  Amira   Ben Ali  ,salma.gharbi35@gmail.com,Sousse
+36,Houssem Haddad,houssem.haddad36@gmail.com,Monastir
+37,Yasmine Khelifi,yasmine.khelifi37@gmail.com,Nabeul
+38,Fares Trabelsi,fares.trabelsi38@gmail.com,Bizerte
+39,Asma Jebali,asma.jebali39@gmail.com,Gabès
+40,Mehdi Bouzid,mehdi.bouzid40@gmail.com,Kairouan
+41,Ahmed Ben Ali,ahmed.benali41@gmail.com,Tunis
+42,Sarah Mansouri,sarah.mansouri42@gmail.com,tUnIs 
+43,Mohamed Saidi,mohamed.saidi43@gmail.com,Sousse
+44,Ines Dridi,ines.dridi44@gmail.com,Monastir
+45,Karim Gharbi,karim.gharbi45@gmail.com,Nabeul
+46,Amira Haddad,amira.haddad46@gmail.com,Bizerte
+47,Youssef Khelifi,youssef.khelifi47@gmail.com,Gabès
+ABC,Leila Trabelsi,leila.trabelsi48@gmail.com,Kairouan
+49,Nour Jebali,nour.jebali49@gmail.com,Tunis
+50,Sami Bouzid,sami.bouzid50@gmail.com,Sfax

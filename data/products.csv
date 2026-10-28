@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,2500.0
+102,Mouse,Accessories,50.0
+103,Keyboard,Office,120.0
+104,Monitor,Storage,800.0
+105,Headphones,Mobile,180.0
+106,Webcam,Electronics,-35
+107,USB Cable,Accessories,25.0
+108,SSD,Office,320.0
+109,Printer,Storage,450.0
+110,Tablet,Mobile,900.0
+111,Smartphone,Electronics,1800.0
+112,Router,Accessories,inconnu
+113,Microphone,Office,210.0
+114,Speaker,Storage,270.0
+115,Power Bank,Mobile,100.0
+116,Laptop,Electronics,2625.0
+117,,Accessories,52.5
+118,Keyboard,Office,126.0
+119,Monitor,Storage,840.0
+120,Headphones,Mobile,189.0
+121,Webcam,,241.5
+122,USB Cable,Accessories,26.25
+123,SSD,Office,336.0
+124,Printer,Storage,472.5
+125,Tablet,Mobile,945.0
+125,Smartphone,Electronics,1890.0
+127,Router,Accessories,157.5
+128,Microphone,Office,220.5
+129,Speaker,Storage,283.5
+130,Power Bank,Mobile,105.0
+131,Laptop,Electronics,2750.0
+132,Mouse,Accessories,0
+133,Keyboard,Office,132.0
+134,Monitor,Storage,880.0
+135,Headphones,Mobile,198.0
+136,Webcam,Electronics,253.0
+137,USB Cable,Accessories,27.5
+138,SSD,Office,352.0
+139,  Mouse ,Storage,495.0
+140,Tablet,Mobile,990.0
+141,Smartphone,Electronics,1980.0
+142,Router,Accessories,165.0
+143,Microphone,Office,231.0
+144,Speaker,Storage,297.0
+XYZ,Power Bank,Mobile,110.0
+146,Laptop,Electronics,2875.0
+147,Mouse,Accessories,57.5
+148,Keyboard,Office,138.0
+149,Monitor,Storage,920.0
+150,Headphones,Mobile,207.0
